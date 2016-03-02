@@ -1,0 +1,73 @@
+{
+  "first-name": "John",
+  "last-name": "Hinkle Place ? KEDAR ? (872) 985­3054 ",
+  "gender": null,
+  "email-address": "kgundlup@iu.edu",
+  "phone-numbers": null,
+  "languages": null,
+  "summary-description": null,
+  "skills": [],
+  "location": null,
+  "positions": [],
+  "projects": [
+    {
+      "title": "? Dials ­ Clock Based Calendar Application",
+      "start-date": null,
+      "end-date": null,
+      "summary": [
+        " ? Contributed to design the architecture. Developed                        "
+      ]
+    },
+    {
+      "title": "? File Transfer Application",
+      "start-date": null,
+      "end-date": null,
+      "summary": [
+        " ? An application build on top of UDP to transfer file reliably.                            "
+      ]
+    },
+    {
+      "title": "? Routing Information Protocol Implementation ? ",
+      "start-date": null,
+      "end-date": null,
+      "summary": [
+        " Implemented RIP using Bellman Ford                  "
+      ]
+    },
+    {
+      "title": "? IDE for Android on Android platform",
+      "start-date": null,
+      "end-date": null,
+      "summary": [
+        " ? Provides a basic Interactive Development Environment                        "
+      ]
+    },
+    {
+      "title": "? Android Fest",
+      "start-date": null,
+      "end-date": null,
+      "summary": [
+        "  ? Secured third prize out of eight projects for our undergraduate final year project.  "
+      ]
+    },
+    {
+      "title": "? Coding & Debugging Contest ? ",
+      "start-date": null,
+      "end-date": null,
+      "summary": [
+        " Won two times in my undergraduate departmental events.  "
+      ]
+    }
+  ],
+  "social-profiles": [],
+  "educations": [
+    {
+      "school": "Bloomington, USA ?                                Indiana University Bloomington               ?    (Expected)May, 2017 , Bangalore, India ?                               Visvesvaraya Technological University                              ? May, 2012 ",
+      "course": "Bachelor of Engineering in Computer Science. World Education Services evaluated GPA: 3.63 ",
+      "start-date": null,
+      "end-date": null
+    }
+  ],
+  "courses": [],
+  "awards": []
+}

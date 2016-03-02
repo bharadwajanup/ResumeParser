@@ -1,0 +1,14 @@
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Release\Sharpenter.ResumeParser.UI.Console.exe.config
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Release\Sharpenter.ResumeParser.UI.Console.exe
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Release\Sharpenter.ResumeParser.UI.Console.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Release\Sharpenter.ResumeParser.Model.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Release\Sharpenter.ResumeParser.OutputFormatter.Json.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Release\Sharpenter.ResumeParser.ResumeProcessor.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Release\Newtonsoft.Json.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Release\Sharpenter.ResumeParser.Model.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Release\Sharpenter.ResumeParser.OutputFormatter.Json.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Release\Sharpenter.ResumeParser.ResumeProcessor.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Release\Newtonsoft.Json.xml
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\obj\Release\Sharpenter.ResumeParser.UI.Console.csprojResolveAssemblyReference.cache
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\obj\Release\Sharpenter.ResumeParser.UI.Console.exe
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\obj\Release\Sharpenter.ResumeParser.UI.Console.pdb

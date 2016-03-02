@@ -1,0 +1,70 @@
+{
+  "first-name": "IN",
+  "last-name": "47401 ",
+  "gender": null,
+  "email-address": "anupbhar@indiana.edu",
+  "phone-numbers": null,
+  "languages": null,
+  "summary-description": null,
+  "skills": [
+    "C",
+    "C++",
+    "C#",
+    "Java",
+    "PHP",
+    "JavaScript",
+    "Racket",
+    "Scheme",
+    "miniKanren",
+    "ASP.Net",
+    "HTML5",
+    "CSS",
+    "D3",
+    "AngularJS",
+    "Bootstrap",
+    "jQuery",
+    "Android",
+    "Oracle",
+    "MySQL",
+    "SQL Server",
+    "Team Foundation Server",
+    "GitHub"
+  ],
+  "location": "(812",
+  "positions": [
+    {
+      "title": "Developer",
+      "start-date": "July 2013",
+      "end-date": "July 2015",
+      "company": null,
+      "summary": [
+        "• Developing an Android app as part of the “GOAL” project which encourages healthy lifestyles for children and ",
+        "their families through education and activity. "
+      ]
+    },
+    {
+      "title": "Software Developer",
+      "start-date": null,
+      "end-date": null,
+      "company": null,
+      "summary": [
+        "• Worked on development, enhancement and maintenance of several modules of the company’s flagship ",
+        "product, the “Mobile Intelligence” using ASP.NET, C#, AngularJS and SQL Server. ",
+        "• Developed a JavaScript visualization library which supports more than 10 custom graphs to be used across ",
+        "the application using D3 and AngularJS. Also contributed to the development of several angular directives ",
+        "and services. ",
+        "•  Received more than 100 support cases logged by clients and worked pro-actively to resolve them. ",
+        "• Contributed to the enhancement of the company’s proprietary framework by delivering more than 5 ",
+        "enhancement requests. "
+      ]
+    }
+  ],
+  "projects": [],
+  "social-profiles": [],
+  "educations": [],
+  "courses": [
+    "Computer Networks, Programming Languages Principles, Mobile and Pervasive Design, Analysis of Algorithms and ",
+    "Advanced Operating Systems. "
+  ],
+  "awards": []
+}

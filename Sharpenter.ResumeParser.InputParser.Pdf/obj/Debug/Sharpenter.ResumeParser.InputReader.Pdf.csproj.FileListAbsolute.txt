@@ -1,0 +1,18 @@
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputParser.Pdf\bin\Debug\Sharpenter.ResumeParser.InputReader.Pdf.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputParser.Pdf\bin\Debug\Sharpenter.ResumeParser.InputReader.Pdf.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputParser.Pdf\bin\Debug\itextsharp.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputParser.Pdf\bin\Debug\Sharpenter.ResumeParser.Model.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputParser.Pdf\bin\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputParser.Pdf\bin\Debug\itextsharp.xml
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputParser.Pdf\obj\Debug\Sharpenter.ResumeParser.InputReader.Pdf.csprojResolveAssemblyReference.cache
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputParser.Pdf\obj\Debug\Sharpenter.ResumeParser.InputReader.Pdf.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputParser.Pdf\obj\Debug\Sharpenter.ResumeParser.InputReader.Pdf.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputParser.Pdf\bin\Debug\Sharpenter.ResumeParser.InputReader.Pdf.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputParser.Pdf\bin\Debug\Sharpenter.ResumeParser.InputReader.Pdf.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputParser.Pdf\bin\Debug\itextsharp.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputParser.Pdf\bin\Debug\Sharpenter.ResumeParser.Model.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputParser.Pdf\bin\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputParser.Pdf\bin\Debug\itextsharp.xml
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputParser.Pdf\obj\Debug\Sharpenter.ResumeParser.InputReader.Pdf.csprojResolveAssemblyReference.cache
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputParser.Pdf\obj\Debug\Sharpenter.ResumeParser.InputReader.Pdf.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputParser.Pdf\obj\Debug\Sharpenter.ResumeParser.InputReader.Pdf.pdb

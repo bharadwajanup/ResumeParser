@@ -1,0 +1,16 @@
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputParser.Docx\bin\Debug\Sharpenter.ResumeParser.InputReader.Docx.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputParser.Docx\bin\Debug\Sharpenter.ResumeParser.InputReader.Docx.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputParser.Docx\bin\Debug\DocumentFormat.OpenXml.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputParser.Docx\bin\Debug\Sharpenter.ResumeParser.Model.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputParser.Docx\bin\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputParser.Docx\obj\Debug\Sharpenter.ResumeParser.InputReader.Docx.csprojResolveAssemblyReference.cache
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputParser.Docx\obj\Debug\Sharpenter.ResumeParser.InputReader.Docx.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputParser.Docx\obj\Debug\Sharpenter.ResumeParser.InputReader.Docx.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputParser.Docx\bin\Debug\Sharpenter.ResumeParser.InputReader.Docx.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputParser.Docx\bin\Debug\Sharpenter.ResumeParser.InputReader.Docx.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputParser.Docx\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputParser.Docx\bin\Debug\Sharpenter.ResumeParser.Model.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputParser.Docx\bin\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputParser.Docx\obj\Debug\Sharpenter.ResumeParser.InputReader.Docx.csprojResolveAssemblyReference.cache
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputParser.Docx\obj\Debug\Sharpenter.ResumeParser.InputReader.Docx.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputParser.Docx\obj\Debug\Sharpenter.ResumeParser.InputReader.Docx.pdb

@@ -1,0 +1,28 @@
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Debug\Sharpenter.ResumeParser.UI.Console.exe.config
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Debug\Sharpenter.ResumeParser.UI.Console.exe
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Debug\Sharpenter.ResumeParser.UI.Console.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Debug\Sharpenter.ResumeParser.Model.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Debug\Sharpenter.ResumeParser.OutputFormatter.Json.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Debug\Sharpenter.ResumeParser.ResumeProcessor.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Debug\Newtonsoft.Json.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Debug\Sharpenter.ResumeParser.OutputFormatter.Json.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Debug\Sharpenter.ResumeParser.ResumeProcessor.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\bin\Debug\Newtonsoft.Json.xml
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\obj\Debug\Sharpenter.ResumeParser.UI.Console.csprojResolveAssemblyReference.cache
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\obj\Debug\Sharpenter.ResumeParser.UI.Console.exe
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.UI.Console\obj\Debug\Sharpenter.ResumeParser.UI.Console.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.UI.Console\bin\Debug\Sharpenter.ResumeParser.UI.Console.exe.config
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.UI.Console\bin\Debug\Sharpenter.ResumeParser.UI.Console.exe
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.UI.Console\bin\Debug\Sharpenter.ResumeParser.UI.Console.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.UI.Console\bin\Debug\Sharpenter.ResumeParser.Model.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.UI.Console\bin\Debug\Sharpenter.ResumeParser.OutputFormatter.Json.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.UI.Console\bin\Debug\Sharpenter.ResumeParser.ResumeProcessor.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.UI.Console\bin\Debug\Newtonsoft.Json.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.UI.Console\bin\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.UI.Console\bin\Debug\Sharpenter.ResumeParser.OutputFormatter.Json.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.UI.Console\bin\Debug\Sharpenter.ResumeParser.ResumeProcessor.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.UI.Console\bin\Debug\Newtonsoft.Json.xml
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.UI.Console\obj\Debug\Sharpenter.ResumeParser.UI.Console.csprojResolveAssemblyReference.cache
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.UI.Console\obj\Debug\Sharpenter.ResumeParser.UI.Console.exe
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.UI.Console\obj\Debug\Sharpenter.ResumeParser.UI.Console.pdb

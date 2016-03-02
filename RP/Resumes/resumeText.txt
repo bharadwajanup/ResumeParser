@@ -1,0 +1,31 @@
+Anup Bharadwaj
+(812) 349-8500 | anupbhar@indiana.edu | 720 S. College Mall Rd, Apt No- F4, Bloomington, IN 47401
+EDUCATION
+• Indiana University, Bloomington May 2017
+Masters in Computer Science
+GPA: 4.0/4.0
+• Visvesvaraya Technological University, Belgaum, India June 2013
+Bachelor of Engineering in Computer Science and Engineering
+Graduated in top 10% of the class.
+KEY COURSES
+Computer Networks, Programming Languages Principles, Mobile and Pervasive Design, Analysis of Algorithms and Advanced Operating Systems.
+TECHNICAL SKILLS
+• Programming languages: C, C++, C#, Java, PHP, JavaScript, Racket, Scheme, miniKanren
+• Web Technologies/Frameworks: ASP.Net, HTML5, CSS, D3, AngularJS, Bootstrap, jQuery
+• Mobile Development: Android
+• Database: Oracle, MySQL, SQL Server
+• Source Control: Team Foundation Server, GitHub
+WORK EXPERIENCE
+Indiana University, Bloomington, Indiana December 2015 - Present
+Android Developer
+• Developing an Android app as part of the “GOAL” project which encourages healthy lifestyles for children and their families through education and activity.
+IMS Health (Formerly known as Cegedim Software), Bangalore, India July 2013 – July 2015 Software Developer
+• Worked on development, enhancement and maintenance of several modules of the company’s flagship product, the “Mobile Intelligence” using ASP.NET, C#, AngularJS and SQL Server.
+• Developed a JavaScript visualization library which supports more than 10 custom graphs to be used across the application using D3 and AngularJS. Also contributed to the development of several angular directives and services.
+• Received more than 100 support cases logged by clients and worked pro-actively to resolve them.
+• Contributed to the enhancement of the company’s proprietary framework by delivering more than 5 enhancement requests.
+ACADEMIC PROJECTS
+• Developed an Android mobile app to enable mothers receive help from their social support especially during the first few months after giving birth.
+• Collaborated with a team member to implement a distributed asynchronous distance vector routing application using socket programming in C.
+• Developed a file transfer application using C which builds transport functionality on top of UDP and offers reliability, flow control and congestion control without the overhead of connection establishment.
+• Implemented a lambda calculus interpreter that takes an expression in Racket and returns the result of evaluating that expression.
